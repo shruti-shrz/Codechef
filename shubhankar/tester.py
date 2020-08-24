@@ -11,16 +11,19 @@ import argparse
 import sqlite3
 import os
 
+
 parser = argparse.ArgumentParser(description='Scrape codechef problem')
 parser.add_argument('problem')
 parser.add_argument('-l', '--language', default='All')
 parser.add_argument('-d', '--database', default='analyze.db')
 parser.add_argument('-s', '--status', default='All')
 parser.add_argument('-b', '--start', type=int, default=0)
+parser.add_argument('-e', '--end', type=int, default=-1)
 args = parser.parse_args()
 
 conn = sqlite3.connect(args.database)
 c = conn.cursor()
+"""
 c.execute('''CREATE TABLE IF NOT EXISTS programs (
                  program_id integer NOT NULL,
                  user text NOT NULL,
@@ -31,7 +34,7 @@ c.execute('''CREATE TABLE IF NOT EXISTS programs (
                  timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
                  PRIMARY KEY(program_id)
              )''')
-
+"""
 languages = {'C': 11,  'JAVA': 10, 'PYTH': 4, 'PYTH3': 116, 'C++':44}
 statuses  = {'WA': 14, 'AC': 15, 'TLE': 13, 'RTE': 12, 'CTE': 11}
 
@@ -62,10 +65,15 @@ try:
 except AttributeError:
     pages = 1
 
+#putting an end limiter
+if args.end is not -1:
+    pages = args.end
+
 # For each page
 for page in range(args.start, pages):
     print ('Page %d/%d' % (page + 1, pages))
-    payload['page'] = page + 1
+    if(page!=0):
+        payload['page'] = page + 1
     r = retrying_get('https://www.codechef.com/status/%s' % args.problem, params=payload)
     soup = BeautifulSoup(r.text, 'html.parser')
 
@@ -91,7 +99,7 @@ for page in range(args.start, pages):
             
         # Insert into the database
         # print(result)
-        c.execute("INSERT INTO programs(program_id, user, result, language, problem_code, code)  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", tuple(result))
+        c.execute("INSERT INTO programs(program_id, user, result, language, problem_code, code)  VALUES (?, ?, ?, ?, ?, ?)", tuple(result))
 
     # Write changes to disk at the end of each page
     conn.commit()
