@@ -17,4 +17,8 @@ int main()
 { 
     int test = 3; 
     printFun(test); 
+    for(int i=0;i<3;i++)
+    {
+        cout << "hello";
+    }
 } 

@@ -17,6 +17,7 @@ using std::endl;
 
 
 stack<string> functions;
+int recur_count = 0;
 
 void check(string line);
 void parseFunction(string line);
@@ -81,14 +82,16 @@ int main(int argc, char** argv) {
   // string path = "./";
   // for (const auto & entry : fs::directory_iterator(path))
   //   cout << entry.path() << endl;
-  cout << "file entered for detection -> " << argv[1] << endl;
+  // cout << "file entered for detection -> " << argv[1] << endl;
   ReadBoardFile(argv[1]);
 //   PrintBoard(board);
 }
 
 void check(string line){
   if(!functions.empty() && line.find(functions.top())!=string::npos){
-    cout << "recursion at " << functions.top() << endl;
+    recur_count++;
+    // cout << "recursion at " << functions.top() << endl;
+    cout << recur_count << "\n";
     functions.pop();
   }
 }

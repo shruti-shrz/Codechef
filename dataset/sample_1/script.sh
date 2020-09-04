@@ -10,7 +10,7 @@ echo $C
 
 for var in $(ls -1)
 do
-	../p $var
+	./r $var
 done
 
 echo "Automated check completed"
