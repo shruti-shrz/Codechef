@@ -13,6 +13,10 @@ conn = sqlite3.connect(args.database)
 c = conn.cursor()
 
 flag =0;
+def checkitr(code):
+
+
+
 with open(args.fill) as file:
     reader = csv.reader(file,delimiter=',')
     lc = 0

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <bits/stdc++.h> 
 using namespace std; 
   
@@ -22,3 +23,15 @@ int main()
         cout << "hello";
     }
 } 
+=======
+#include<iostream>
+
+using namespace std;
+
+int main(){
+    int a = 5;
+    int b = 6;
+    int c = a*b;
+    cout<<c<<"\n";
+}
+>>>>>>> c94df1d088c834a7ed4e48b2f8f6a5be1e4dfcb4
