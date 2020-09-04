@@ -23,4 +23,5 @@ import os
 #         print(x)
 #         subprocess.call(["r", x],shell=True)
 
-subprocess.call(['dir'],shell=True)
+subprocess.call(['bash'],shell=True)
+subprocess.call(['ls -l'],shell=True)
