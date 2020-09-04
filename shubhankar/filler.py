@@ -26,6 +26,17 @@ with open(args.fill) as file:
                     # print(row[0])
                     for x in result:
                         print(x)
+                # if result != None:
+                #     for x in result:
+                #         file1 = open("./output.cpp","w+")
+                #         file1.writelines(x)
+                #         file1.close()
+                #         time.sleep(1)
+                #         # print(x)
+                #         args = './r output.cpp'
+                #         num = subprocess.call(args,shell=True,stdout=subprocess.PIPE)
+                #         # print(num)
+                #         # writer.writerow(row)
         lc += 1
 
 conn.close()
