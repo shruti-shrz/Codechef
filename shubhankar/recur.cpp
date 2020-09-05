@@ -106,7 +106,11 @@ int main(int argc, char** argv) {
 	//cout << "check";
   ReadBoardFile(argv[1]);
   //ReadBoardFile_itr(argv[1]);
-  cout << recur_count << endl;
+  if(recur_count){
+    cout<<"true";
+  }else{
+    cout<<"false";
+  }
 //   PrintBoard(board);
 }
 

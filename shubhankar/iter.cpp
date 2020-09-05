@@ -33,7 +33,11 @@ void ReadBoardFile(string path) {
 }
 
 int main(int argc, char** argv) {
-  cout << "file entered for detection -> " << argv[1] << endl;
+  // cout << "file entered for detection -> " << argv[1] << endl;
   ReadBoardFile(argv[1]);
-  cout<<iter_count<<"\n";
+  if(iter_count){
+    cout<<"true";
+  }else{
+    cout<<"false";
+  }
 }
