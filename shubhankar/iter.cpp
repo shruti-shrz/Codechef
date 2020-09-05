@@ -14,8 +14,7 @@ using std::vector;
 using std::stack;
 using std::endl;
 
-
-stack<string> functions;
+//stack<string> functions;
 int iter_count = 0;
 
 void ReadBoardFile(string path) {
