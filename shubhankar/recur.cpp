@@ -36,20 +36,20 @@ void parseFunction(string line);
 // }
 int iter_count = 0;
 
-void ReadBoardFile_itr(string path) {
-  ifstream myfile (path);
-  //ofstream outfile ("iter.txt");
-  bool flag = false;
-  if (myfile) {
-    string line;
-    while (getline(myfile, line)) {
-        if(line.find("while")!=string::npos || line.find("for")!=string::npos){
-           // outfile << line;
-            iter_count++;
-        }
-    }
-  }
-}
+// void ReadBoardFile_itr(string path) {
+//   ifstream myfile (path);
+//   //ofstream outfile ("iter.txt");
+//   bool flag = false;
+//   if (myfile) {
+//     string line;
+//     while (getline(myfile, line)) {
+//         if(line.find("while")!=string::npos || line.find("for")!=string::npos){
+//            // outfile << line;
+//             iter_count++;
+//         }
+//     }
+//   }
+// }
 void ReadBoardFile(string path) {
   ifstream myfile (path);
  // ofstream outfile ("check.txt");
@@ -106,9 +106,8 @@ int main(int argc, char** argv) {
   // cout << "file entered for detection -> " << argv[1] << endl;
 	//cout << "check";
   ReadBoardFile(argv[1]);
-  ReadBoardFile_itr(argv[1]);
+  //ReadBoardFile_itr(argv[1]);
   cout << recur_count << endl;
-  cout << iter_count <<endl;
 //   PrintBoard(board);
 }
 
