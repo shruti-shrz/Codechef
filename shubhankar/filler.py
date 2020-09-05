@@ -23,24 +23,24 @@ with open(args.fill) as file:
                 t = (row[0],)
                 c.execute('SELECT code FROM programs WHERE program_id =?',t)
                 result = c.fetchone()
-                # if result != None:
-                #     flag=flag+1
-                #     if flag<=2:
-                #         for x in result:
-                #             print(x)
                 if result != None:
-                    for x in result:
-                        file1 = open("output.cpp","w+")
-                        file1.writelines(x)
-                        file1.close()
-                        data, temp = os.pipe()
-                        os.write(temp, bytes("5 10\n", "utf-8"));
-                        os.close(temp)
-                        args = []
-                        args.append('./r')
-                        args.append('output.cpp')
-                        num = subprocess.check_output(args,stdin=data,shell=True)
-                        print(num.decode("utf-8"))
+                    flag=flag+1
+                    if flag<=2:
+                        for x in result:
+                            print(x)
+                # if result != None:
+                #     for x in result:
+                #         file1 = open("output.cpp","w+")
+                #         file1.writelines(x)
+                #         file1.close()
+                #         data, temp = os.pipe()
+                #         os.write(temp, bytes("5 10\n", "utf-8"));
+                #         os.close(temp)
+                #         args = []
+                #         args.append('./r')
+                #         args.append('output.cpp')
+                #         num = subprocess.check_output(args,stdin=data,shell=True)
+                #         print(num.decode("utf-8"))
                         # print(num)
                         # writer.writerow(row)
         lc += 1
