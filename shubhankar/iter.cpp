@@ -15,7 +15,7 @@ using std::stack;
 using std::endl;
 
 //stack<string> functions;
-int iter_count = 0;
+bool iter_count = false;
 
 void ReadBoardFile(string path) {
   ifstream myfile (path);
@@ -26,7 +26,7 @@ void ReadBoardFile(string path) {
     while (getline(myfile, line)) {
         if(line.find("while")!=string::npos || line.find("for")!=string::npos){
             outfile << line;
-            iter_count++;
+            iter_count=true;
         }
     }
   }

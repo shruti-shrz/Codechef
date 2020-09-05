@@ -17,7 +17,7 @@ using std::endl;
 
 
 stack<string> functions;
-int recur_count = 0;
+bool recur_count = false;
 
 void check(string line);
 void parseFunction(string line);
@@ -34,7 +34,6 @@ void parseFunction(string line);
 //       }
 //     }
 // }
-int iter_count = 0;
 
 // void ReadBoardFile_itr(string path) {
 //   ifstream myfile (path);
@@ -113,7 +112,7 @@ int main(int argc, char** argv) {
 
 void check(string line){
   if(!functions.empty() && line.find(functions.top())!=string::npos){
-    recur_count++;
+    recur_count= true;
     // cout << "recursion at " << functions.top() << endl;
     //cout << recur_count << endl;
     functions.pop();
