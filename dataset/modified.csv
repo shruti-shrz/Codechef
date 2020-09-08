@@ -1,10 +1,10 @@
-program_id,datetime,star,user,result,time,memory,language,problem_code,uses recursion,uses iteration
-34852056,08:44 PM 28/06/20,4,crusher5371,accepted,0.00,10.5M,C++17,ECJN202,0,0
+program_id,datetime,star,user,result,time,memory,language,problem_code,# of recursions,# of iteration
+34852056,08:44 PM 28/06/20,4,crusher5371,accepted,0.00,10.5M,C++17,ECJN202,true,true
 34852073,08:45 PM 28/06/20,5,akil_av17,accepted,0.05,2133M,JAVA,ECJN202,false,true
 34852106,08:47 PM 28/06/20,3,hackervivek123,accepted,0.00,26M,C++14,ECJN202,true,true
 34852142,08:49 PM 28/06/20,2,niteshguptaktl,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34852231,08:53 PM 28/06/20,2,sindal_01,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34852241,08:54 PM 28/06/20,1,paras__2000,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34852241,08:54 PM 28/06/20,1,paras__2000,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34852340,08:59 PM 28/06/20,2,sindal_01,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34852354,09:00 PM 28/06/20,1,aditya029,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34852374,09:01 PM 28/06/20,2,sindal_01,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
@@ -19,22 +19,22 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34852556,09:11 PM 28/06/20,2,abhinash1998,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34852563,09:12 PM 28/06/20,0,rishabhsinha8,wrong answer,0.00,9.2M,C,ECJN202,0,0
 34852571,09:12 PM 28/06/20,0,rishabhsinha8,wrong answer,0.00,9.2M,C,ECJN202,0,0
-34852573,09:12 PM 28/06/20,4,alif_cse_ju,accepted,0.00,6M,C++17,ECJN202,0,0
+34852573,09:12 PM 28/06/20,4,alif_cse_ju,accepted,0.00,6M,C++17,ECJN202,false,true
 34852591,09:14 PM 28/06/20,5,nuttela,accepted,0.00,15.6M,C++14,ECJN202,false,true
 34852613,09:15 PM 28/06/20,1,rishu850,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34852618,09:15 PM 28/06/20,1,manisha76543,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34852669,09:19 PM 28/06/20,2,ishu12345,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34852618,09:15 PM 28/06/20,1,manisha76543,accepted,0.00,5.8M,C++17,ECJN202,true,true
+34852669,09:19 PM 28/06/20,2,ishu12345,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34853492,10:10 PM 28/06/20,3,ac_0127,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34853517,10:11 PM 28/06/20,2,deepthansu_1,accepted,0.10,2133M,JAVA,ECJN202,false,true
-34853533,10:12 PM 28/06/20,2,abtab,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
-34853545,10:13 PM 28/06/20,1,rk9605393,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34853533,10:12 PM 28/06/20,2,abtab,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
+34853545,10:13 PM 28/06/20,1,rk9605393,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34853553,10:13 PM 28/06/20,4,tarunmishra_19,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34853594,10:15 PM 28/06/20,3,ac_0127,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34853672,10:20 PM 28/06/20,3,ac_0127,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34853710,10:22 PM 28/06/20,4,sreekanth_cc,wrong answer,0.00,15.7M,C++14,ECJN202,false,true
 34853790,10:26 PM 28/06/20,2,tle_tle11,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34853791,10:26 PM 28/06/20,3,sarveshlohar,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-34853803,10:27 PM 28/06/20,2,pavani_26,accepted,0.01,17.5M,PYTH 3.6,ECJN202,0,0
+34853791,10:26 PM 28/06/20,3,sarveshlohar,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+34853803,10:27 PM 28/06/20,2,pavani_26,accepted,0.01,17.5M,PYTH 3.6,ECJN202,false,true
 34853811,10:27 PM 28/06/20,3,paracetamol650,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34853884,10:31 PM 28/06/20,2,rohan_345,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34853906,10:32 PM 28/06/20,4,sreekanth_cc,accepted,0.00,14.9M,C++14,ECJN202,false,true
@@ -45,7 +45,7 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34854022,10:39 PM 28/06/20,3,ishankr21,accepted,0.00,15.7M,C++14,ECJN202,false,true
 34854102,10:44 PM 28/06/20,4,nagasaisujan16,accepted,0.00,14.9M,C++14,ECJN202,true,true
 34854124,10:45 PM 28/06/20,3,faiz_b_shah24,accepted,0.11,2133M,JAVA,ECJN202,false,true
-34854159,10:47 PM 28/06/20,2,saksham_33,accepted,0.01,17.5M,PYTH 3.6,ECJN202,0,0
+34854159,10:47 PM 28/06/20,2,saksham_33,accepted,0.01,17.5M,PYTH 3.6,ECJN202,false,true
 34854205,10:50 PM 28/06/20,4,anshul_151,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34854242,10:52 PM 28/06/20,1,coder58anubhav,accepted,0.00,9.2M,C,ECJN202,0,0
 34854267,10:54 PM 28/06/20,2,ankush19,accepted,0.11,2133M,JAVA,ECJN202,false,true
@@ -99,11 +99,11 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34856486,01:56 AM 29/06/20,4,saransh2708,accepted,0.00,14.9M,C++14,ECJN202,0,0
 34856633,02:18 AM 29/06/20,2,srinjoypaul,accepted,0.00,14.9M,C++14,ECJN202,0,0
 34856843,02:57 AM 29/06/20,1,anshu13,compilation error,-,-,PYTH 3.6,ECJN202,0,0
-34856847,02:58 AM 29/06/20,1,anshu13,compilation error,-,-,PYTH 3.6,ECJN202,0,0
-34856858,03:00 AM 29/06/20,1,anshu13,wrong answer,0.02,17.6M,PYTH 3.6,ECJN202,0,0
-34856863,03:01 AM 29/06/20,1,anshu13,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-34856876,03:04 AM 29/06/20,1,anshu13,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-34856888,03:07 AM 29/06/20,1,anshu13,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34856847,02:58 AM 29/06/20,1,anshu13,compilation error,-,-,PYTH 3.6,ECJN202,false,true
+34856858,03:00 AM 29/06/20,1,anshu13,wrong answer,0.02,17.6M,PYTH 3.6,ECJN202,false,true
+34856863,03:01 AM 29/06/20,1,anshu13,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+34856876,03:04 AM 29/06/20,1,anshu13,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+34856888,03:07 AM 29/06/20,1,anshu13,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34856899,03:11 AM 29/06/20,2,aroaryan1,wrong answer,0.10,2133M,JAVA,ECJN202,false,true
 34856905,03:12 AM 29/06/20,2,aroaryan1,accepted,0.10,2133M,JAVA,ECJN202,false,true
 34856917,03:20 AM 29/06/20,0,himp7,runtime error(SIGSEGV),0.00,14.9M,C++14,ECJN202,false,true
@@ -120,7 +120,7 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34857642,08:13 AM 29/06/20,1,cyber01,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34857645,08:14 AM 29/06/20,2,sktshrma_007,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34857676,08:20 AM 29/06/20,2,sindal_01,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34857730,08:27 AM 29/06/20,1,ashutosh0903,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34857730,08:27 AM 29/06/20,1,ashutosh0903,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34857755,08:31 AM 29/06/20,0,ranjeet808417,runtime error(SIGSEGV),0.00,14.9M,C++14,ECJN202,false,true
 34857763,08:32 AM 29/06/20,2,chefsaurav19,wrong answer,0.00,15.7M,C++14,ECJN202,false,true
 34857773,08:33 AM 29/06/20,0,ranjeet808417,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
@@ -149,25 +149,25 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34858808,10:26 AM 29/06/20,2,taruvar123,wrong answer,0.00,15.7M,C++14,ECJN202,0,0
 34858821,10:28 AM 29/06/20,2,taruvar123,accepted,0.00,15.7M,C++14,ECJN202,0,0
 34859015,10:41 AM 29/06/20,3,ac_0127,accepted,0.00,14.9M,C++14,ECJN202,0,0
-34859213,10:53 AM 29/06/20,2,black143,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34859213,10:53 AM 29/06/20,2,black143,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34859215,10:54 AM 29/06/20,2,anman1900,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34859223,10:54 AM 29/06/20,2,anman1900,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34859225,10:54 AM 29/06/20,2,nikhil_patel_,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34859290,10:58 AM 29/06/20,3,manas_17,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34859320,11:00 AM 29/06/20,2,hariharsha6142,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34859320,11:00 AM 29/06/20,2,hariharsha6142,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34859835,11:28 AM 29/06/20,2,jarthal_harsh7,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34859848,11:29 AM 29/06/20,1,arunteja_18,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34859848,11:29 AM 29/06/20,1,arunteja_18,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34859854,11:29 AM 29/06/20,2,jarthal_harsh7,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34859880,11:31 AM 29/06/20,2,lohitagarwalla,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34860075,11:41 AM 29/06/20,3,chandan23,runtime error(NZEC),0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34860075,11:41 AM 29/06/20,3,chandan23,runtime error(NZEC),0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34860094,11:42 AM 29/06/20,5,vd_98,accepted,0.00,14.9M,C++14,ECJN202,true,true
-34860102,11:43 AM 29/06/20,3,chandan23,runtime error(NZEC),0.02,17.6M,PYTH 3.6,ECJN202,0,0
-34860127,11:44 AM 29/06/20,2,abhiroopsaha19,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-34860139,11:44 AM 29/06/20,2,abhiroopsaha19,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34860102,11:43 AM 29/06/20,3,chandan23,runtime error(NZEC),0.02,17.6M,PYTH 3.6,ECJN202,false,true
+34860127,11:44 AM 29/06/20,2,abhiroopsaha19,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+34860139,11:44 AM 29/06/20,2,abhiroopsaha19,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34860143,11:45 AM 29/06/20,4,anshul_151,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34860154,11:45 AM 29/06/20,2,abhiroopsaha19,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34860154,11:45 AM 29/06/20,2,abhiroopsaha19,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34860176,11:46 AM 29/06/20,3,chandan23,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34860203,11:48 AM 29/06/20,3,chandan23,accepted,0.01,17.5M,PYTH 3.6,ECJN202,0,0
+34860203,11:48 AM 29/06/20,3,chandan23,accepted,0.01,17.5M,PYTH 3.6,ECJN202,false,true
 34860235,11:50 AM 29/06/20,5,c_rahul,accepted,0.00,14.9M,C++14,ECJN202,true,true
 34860239,11:50 AM 29/06/20,1,gurav_123,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34860295,11:52 AM 29/06/20,6,user_not_found,accepted,0.07,87.1M,PYPY3,ECJN202,0,0
@@ -177,20 +177,20 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34860403,11:57 AM 29/06/20,2,jafar00,accepted,0.00,15.7M,C++14,ECJN202,false,true
 34860552,12:04 PM 29/06/20,2,draco_malfoy,accepted,0.05,2133M,JAVA,ECJN202,false,true
 34860939,12:21 PM 29/06/20,2,ak8892707,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34860940,12:21 PM 29/06/20,2,csedk,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34860940,12:21 PM 29/06/20,2,csedk,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34860968,12:23 PM 29/06/20,4,anand18,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34860985,12:24 PM 29/06/20,3,harry_6003,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34861462,12:46 PM 29/06/20,3,akshit01032000,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34861478,12:47 PM 29/06/20,3,akshit01032000,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34861481,12:47 PM 29/06/20,2,rahul_2204,compilation error,-,-,PYTH 3.6,ECJN202,0,0
-34861502,12:48 PM 29/06/20,2,rahul_2204,accepted,0.02,26.9M,PYTH 3.6,ECJN202,0,0
+34861481,12:47 PM 29/06/20,2,rahul_2204,compilation error,-,-,PYTH 3.6,ECJN202,false,true
+34861502,12:48 PM 29/06/20,2,rahul_2204,accepted,0.02,26.9M,PYTH 3.6,ECJN202,false,true
 34861742,01:01 PM 29/06/20,3,kiteretsucodes,accepted,0.00,15.7M,C++14,ECJN202,false,true
 34861792,01:03 PM 29/06/20,4,code_25,wrong answer,0.00,15.6M,C++14,ECJN202,false,true
 34861835,01:05 PM 29/06/20,4,code_25,accepted,0.00,15.6M,C++14,ECJN202,false,true
 34861889,01:08 PM 29/06/20,2,tanmayi33,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34862001,01:14 PM 29/06/20,4,msp1451,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34862001,01:14 PM 29/06/20,4,msp1451,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34862017,01:14 PM 29/06/20,2,koustav_7890,accepted,0.00,15.7M,C++14,ECJN202,false,true
-34862019,01:15 PM 29/06/20,4,msp1451,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34862019,01:15 PM 29/06/20,4,msp1451,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34862294,01:30 PM 29/06/20,4,daschiku37,accepted,0.00,14.9M,C++14,ECJN202,true,true
 34862424,01:37 PM 29/06/20,3,sushithreddy75,accepted,0.10,2133M,JAVA,ECJN202,false,true
 34862527,01:43 PM 29/06/20,4,ktk54x,accepted,0.02,15M,C++14,ECJN202,true,true
@@ -202,29 +202,29 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34863219,02:21 PM 29/06/20,3,sudheerays123,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34863276,02:25 PM 29/06/20,2,cs_18010132,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34863327,02:27 PM 29/06/20,2,alone_walker_2,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34863579,02:41 PM 29/06/20,3,ghfg345,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34863579,02:41 PM 29/06/20,3,ghfg345,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34863634,02:44 PM 29/06/20,3,aditya_1304,accepted,0.00,14.9M,C++14,ECJN202,true,true
-34863670,02:46 PM 29/06/20,3,akshay_murari_,wrong answer,0.02,17.5M,PYTH 3.6,ECJN202,0,0
+34863670,02:46 PM 29/06/20,3,akshay_murari_,wrong answer,0.02,17.5M,PYTH 3.6,ECJN202,false,true
 34863688,02:47 PM 29/06/20,0,shriyajaswani,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34863689,02:47 PM 29/06/20,3,akshay_murari_,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34863689,02:47 PM 29/06/20,3,akshay_murari_,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34863797,02:53 PM 29/06/20,0,shriyajaswani,wrong answer,0.00,199.5M,C++14,ECJN202,false,true
 34863821,02:54 PM 29/06/20,0,shriyajaswani,runtime error(SIGABRT),0.00,14.9M,C++14,ECJN202,false,true
 34863847,02:55 PM 29/06/20,0,shriyajaswani,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34863870,02:56 PM 29/06/20,3,ashharali_786,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34863911,02:58 PM 29/06/20,3,ashharali_786,accepted,0.00,15.7M,C++14,ECJN202,false,true
-34863921,02:58 PM 29/06/20,3,akshay_murari_,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34863921,02:58 PM 29/06/20,3,akshay_murari_,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34863960,03:00 PM 29/06/20,3,quietexplosion,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34864014,03:03 PM 29/06/20,3,nrs_782,accepted,0.04,87.1M,PYPY3,ECJN202,0,0
 34864030,03:04 PM 29/06/20,3,akshay_murari_,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34864046,03:05 PM 29/06/20,3,akshay_murari_,accepted,0.00,15.7M,C++14,ECJN202,false,true
 34864144,03:09 PM 29/06/20,3,akshay_murari_,accepted,0.10,2133M,JAVA,ECJN202,false,true
-34864147,03:09 PM 29/06/20,4,akshay1_2,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34864147,03:09 PM 29/06/20,4,akshay1_2,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34864283,03:14 PM 29/06/20,2,yash19_pro,compilation error,-,-,C++14,ECJN202,false,true
 34864295,03:15 PM 29/06/20,2,yash19_pro,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34864354,03:18 PM 29/06/20,2,prashant_08,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34864464,03:23 PM 29/06/20,2,arnav1998,accepted,0.00,15.7M,C++14,ECJN202,false,true
 34864476,03:23 PM 29/06/20,2,prashant_08,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34864595,03:28 PM 29/06/20,3,feelme,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34864595,03:28 PM 29/06/20,3,feelme,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34864691,03:32 PM 29/06/20,3,creator5923,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34864778,03:37 PM 29/06/20,4,rakshi_20,accepted,0.00,16.4M,C++14,ECJN202,true,true
 34864890,03:45 PM 29/06/20,2,vijay1621,compilation error,-,-,C++14,ECJN202,false,true
@@ -242,7 +242,7 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34865258,04:05 PM 29/06/20,1,deevyanshu,accepted,0.10,2133M,JAVA,ECJN202,false,true
 34865322,04:08 PM 29/06/20,3,manish2511,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34865784,04:35 PM 29/06/20,2,mdzaidalam52,accepted,0.10,2133M,JAVA,ECJN202,false,true
-34865965,04:45 PM 29/06/20,1,shreya_369,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34865965,04:45 PM 29/06/20,1,shreya_369,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34866013,04:47 PM 29/06/20,2,ajha79923,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34866074,04:50 PM 29/06/20,2,ajha79923,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34866092,04:51 PM 29/06/20,2,ajha79923,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
@@ -267,11 +267,11 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34868042,06:32 PM 29/06/20,3,msd_mst,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34868051,06:33 PM 29/06/20,3,msd_mst,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34868088,06:35 PM 29/06/20,2,mounika937,accepted,0.00,9.2M,C,ECJN202,0,0
-34868200,06:41 PM 29/06/20,3,mahendra275,wrong answer,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34868200,06:41 PM 29/06/20,3,mahendra275,wrong answer,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34868285,06:45 PM 29/06/20,3,nikhil_261,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34868422,06:52 PM 29/06/20,3,mahendra275,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
-34868509,06:56 PM 29/06/20,3,mahendra275,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-34868537,06:57 PM 29/06/20,3,mahendra275,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34868422,06:52 PM 29/06/20,3,mahendra275,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
+34868509,06:56 PM 29/06/20,3,mahendra275,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+34868537,06:57 PM 29/06/20,3,mahendra275,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34868650,07:03 PM 29/06/20,2,proton13,compilation error,-,-,C++14,ECJN202,false,true
 34868665,07:04 PM 29/06/20,2,proton13,compilation error,-,-,C++14,ECJN202,false,true
 34868673,07:05 PM 29/06/20,2,proton13,compilation error,-,-,C++14,ECJN202,false,true
@@ -287,26 +287,26 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34869091,07:27 PM 29/06/20,3,i_am_the_smoke,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34869094,07:27 PM 29/06/20,2,rohit4445,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34869133,07:29 PM 29/06/20,3,i_am_the_smoke,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34869138,07:29 PM 29/06/20,3,glaxmisainath,compilation error,-,-,PYTH 3.6,ECJN202,0,0
-34869154,07:30 PM 29/06/20,3,glaxmisainath,accepted,0.02,17.5M,PYTH 3.6,ECJN202,0,0
+34869138,07:29 PM 29/06/20,3,glaxmisainath,compilation error,-,-,PYTH 3.6,ECJN202,false,true
+34869154,07:30 PM 29/06/20,3,glaxmisainath,accepted,0.02,17.5M,PYTH 3.6,ECJN202,false,true
 34869191,07:31 PM 29/06/20,2,code_vj_525,accepted,0.00,15.7M,C++14,ECJN202,false,true
-34869248,07:34 PM 29/06/20,2,starsuraj4,wrong answer,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34869248,07:34 PM 29/06/20,2,starsuraj4,wrong answer,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34869257,07:34 PM 29/06/20,5,ram0553,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34869294,07:36 PM 29/06/20,0,ananya0908,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
+34869294,07:36 PM 29/06/20,0,ananya0908,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
 34869316,07:37 PM 29/06/20,1,codeprateek,accepted,0.00,15.7M,C++14,ECJN202,false,true
 34869520,07:47 PM 29/06/20,4,sp19,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34869617,07:52 PM 29/06/20,4,jyoti369,accepted,0.04,2133M,JAVA,ECJN202,false,true
-34869639,07:53 PM 29/06/20,2,starsuraj4,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34869639,07:53 PM 29/06/20,2,starsuraj4,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34870068,08:15 PM 29/06/20,3,aman_5311,accepted,0.00,14.9M,C++14,ECJN202,true,true
-34870092,08:16 PM 29/06/20,2,zephaniah_2002,compilation error,-,-,PYTH 3.6,ECJN202,0,0
-34870104,08:17 PM 29/06/20,2,zephaniah_2002,compilation error,-,-,PYTH 3.6,ECJN202,0,0
+34870092,08:16 PM 29/06/20,2,zephaniah_2002,compilation error,-,-,PYTH 3.6,ECJN202,false,true
+34870104,08:17 PM 29/06/20,2,zephaniah_2002,compilation error,-,-,PYTH 3.6,ECJN202,false,true
 34870127,08:18 PM 29/06/20,3,abhishek1306,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34870136,08:18 PM 29/06/20,2,zephaniah_2002,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34870136,08:18 PM 29/06/20,2,zephaniah_2002,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34870294,08:27 PM 29/06/20,3,ayushagrwl,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34870532,08:38 PM 29/06/20,2,aryan1341,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34870560,08:39 PM 29/06/20,3,gowtham516,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34870573,08:40 PM 29/06/20,3,nambiar_nithin,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34870765,08:48 PM 29/06/20,1,animan0714,accepted,0.05,2133M,JAVA,ECJN202,true,true
+34870765,08:48 PM 29/06/20,1,animan0714,accepted,0.05,2133M,JAVA,ECJN202,false,true
 34871318,09:16 PM 29/06/20,3,biswa_867,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34871332,09:17 PM 29/06/20,3,aadeesh123,accepted,0.11,2133M,JAVA,ECJN202,false,true
 34871363,09:19 PM 29/06/20,3,biswa_867,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
@@ -314,10 +314,10 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34871401,09:21 PM 29/06/20,3,biswa_867,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34871532,09:28 PM 29/06/20,2,bal_govind,accepted,0.10,2133M,JAVA,ECJN202,false,true
 34871557,09:29 PM 29/06/20,3,kripri,accepted,0.00,9.2M,C,ECJN202,0,0
-34871579,09:31 PM 29/06/20,2,parag1912,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34871579,09:31 PM 29/06/20,2,parag1912,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34871646,09:35 PM 29/06/20,3,sahithi_1809,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34871719,09:39 PM 29/06/20,3,raghav_456,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34871744,09:40 PM 29/06/20,2,bal_govind,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+34871744,09:40 PM 29/06/20,2,bal_govind,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 34871774,09:42 PM 29/06/20,3,raghav_456,accepted,0.00,15.7M,C++14,ECJN202,false,true
 34871982,09:55 PM 29/06/20,2,vaibhav2113,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34879891,01:14 PM 30/06/20,2,prakash2019119,accepted,0.00,15.7M,C++14,ECJN202,0,0
@@ -465,108 +465,108 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34895013,08:45 AM 01/07/20,2,vijeta0104,wrong answer,0.00,9.2M,C,ECJN202,0,0
 34895026,08:48 AM 01/07/20,2,vijeta0104,accepted,0.00,9.2M,C,ECJN202,0,0
 34895068,08:54 AM 01/07/20,3,bionic_coder,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34895302,09:32 AM 01/07/20,3,vinayak_sharma,wrong answer,0.02,17.6M,PYTH 3.6,ECJN202,0,0
-34895325,09:35 AM 01/07/20,3,vinayak_sharma,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-34895331,09:35 AM 01/07/20,3,vinayak_sharma,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-34895334,09:36 AM 01/07/20,3,vinayak_sharma,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-34895349,09:39 AM 01/07/20,3,vinayak_sharma,accepted,0.00,17.6M,PYTH 3.6,ECJN202,0,0
+34895302,09:32 AM 01/07/20,3,vinayak_sharma,wrong answer,0.02,17.6M,PYTH 3.6,ECJN202,false,true
+34895325,09:35 AM 01/07/20,3,vinayak_sharma,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+34895331,09:35 AM 01/07/20,3,vinayak_sharma,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+34895334,09:36 AM 01/07/20,3,vinayak_sharma,wrong answer,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+34895349,09:39 AM 01/07/20,3,vinayak_sharma,accepted,0.00,17.6M,PYTH 3.6,ECJN202,false,true
 34896162,11:01 AM 01/07/20,0,vjudge5,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896174,11:02 AM 01/07/20,0,vjudge6,wrong answer,0.00,6.7M,C++17,ECJN202,0,0
+34896174,11:02 AM 01/07/20,0,vjudge6,wrong answer,0.00,6.7M,C++17,ECJN202,false,true
 34896177,11:02 AM 01/07/20,0,vjudge11,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34896181,11:02 AM 01/07/20,0,vjudge9,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896181,11:02 AM 01/07/20,0,vjudge9,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896183,11:02 AM 01/07/20,0,vjudge5,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34896191,11:03 AM 01/07/20,0,vjudge1,accepted,0.00,15M,C++14,ECJN202,false,true
-34896192,11:03 AM 01/07/20,0,vjudge3,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896193,11:03 AM 01/07/20,0,vjudge8,accepted,0.00,6M,C++17,ECJN202,0,0
-34896195,11:03 AM 01/07/20,0,vjudge4,accepted,0.00,2.4M,C++17,ECJN202,0,0
-34896198,11:03 AM 01/07/20,0,vjudge11,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896192,11:03 AM 01/07/20,0,vjudge3,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896193,11:03 AM 01/07/20,0,vjudge8,accepted,0.00,6M,C++17,ECJN202,false,true
+34896195,11:03 AM 01/07/20,0,vjudge4,accepted,0.00,2.4M,C++17,ECJN202,false,true
+34896198,11:03 AM 01/07/20,0,vjudge11,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896199,11:03 AM 01/07/20,0,vjudge6,accepted,0.00,15.5M,C++14,ECJN202,false,true
-34896200,11:03 AM 01/07/20,0,vjudge2,accepted,0.00,6.8M,C++17,ECJN202,0,0
-34896202,11:03 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896209,11:03 AM 01/07/20,0,vjudge1,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896210,11:03 AM 01/07/20,0,vjudge3,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
-34896212,11:03 AM 01/07/20,0,vjudge5,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896216,11:03 AM 01/07/20,0,vjudge11,accepted,0.00,6M,C++17,ECJN202,0,0
-34896218,11:03 AM 01/07/20,0,vjudge4,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
+34896200,11:03 AM 01/07/20,0,vjudge2,accepted,0.00,6.8M,C++17,ECJN202,false,true
+34896202,11:03 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896209,11:03 AM 01/07/20,0,vjudge1,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896210,11:03 AM 01/07/20,0,vjudge3,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
+34896212,11:03 AM 01/07/20,0,vjudge5,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896216,11:03 AM 01/07/20,0,vjudge11,accepted,0.00,6M,C++17,ECJN202,false,true
+34896218,11:03 AM 01/07/20,0,vjudge4,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
 34896221,11:04 AM 01/07/20,0,vjudge6,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34896225,11:04 AM 01/07/20,0,vjudge2,accepted,0.00,15.6M,C++14,ECJN202,false,true
 34896226,11:04 AM 01/07/20,0,vjudge9,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34896231,11:04 AM 01/07/20,0,vjudge5,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896233,11:04 AM 01/07/20,0,vjudge11,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896233,11:04 AM 01/07/20,0,vjudge11,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896235,11:04 AM 01/07/20,0,vjudge1,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34896242,11:04 AM 01/07/20,0,vjudge9,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34896243,11:04 AM 01/07/20,0,vjudge2,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
+34896243,11:04 AM 01/07/20,0,vjudge2,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
 34896245,11:04 AM 01/07/20,0,vjudge6,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896247,11:04 AM 01/07/20,0,vjudge8,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896248,11:04 AM 01/07/20,0,vjudge5,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
+34896247,11:04 AM 01/07/20,0,vjudge8,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896248,11:04 AM 01/07/20,0,vjudge5,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
 34896252,11:05 AM 01/07/20,0,vjudge4,compilation error,-,-,C,ECJN202,0,0
 34896253,11:05 AM 01/07/20,0,vjudge9,accepted,0.00,15.7M,C++14,ECJN202,false,true
-34896256,11:05 AM 01/07/20,0,vjudge2,accepted,0.00,5.9M,C++17,ECJN202,0,0
-34896258,11:05 AM 01/07/20,0,vjudge3,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
+34896256,11:05 AM 01/07/20,0,vjudge2,accepted,0.00,5.9M,C++17,ECJN202,false,true
+34896258,11:05 AM 01/07/20,0,vjudge3,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
 34896266,11:05 AM 01/07/20,0,vjudge6,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896267,11:05 AM 01/07/20,0,vjudge8,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
-34896268,11:05 AM 01/07/20,0,vjudge11,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
+34896267,11:05 AM 01/07/20,0,vjudge8,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
+34896268,11:05 AM 01/07/20,0,vjudge11,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
 34896272,11:05 AM 01/07/20,0,vjudge4,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34896276,11:05 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896282,11:06 AM 01/07/20,0,vjudge1,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896283,11:06 AM 01/07/20,0,vjudge4,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
+34896276,11:05 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896282,11:06 AM 01/07/20,0,vjudge1,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896283,11:06 AM 01/07/20,0,vjudge4,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
 34896284,11:06 AM 01/07/20,0,vjudge7,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34896285,11:06 AM 01/07/20,0,vjudge8,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896286,11:06 AM 01/07/20,0,vjudge11,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896286,11:06 AM 01/07/20,0,vjudge11,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896288,11:06 AM 01/07/20,0,vjudge9,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896294,11:06 AM 01/07/20,0,vjudge2,wrong answer,0.00,5.9M,C++17,ECJN202,0,0
+34896294,11:06 AM 01/07/20,0,vjudge2,wrong answer,0.00,5.9M,C++17,ECJN202,true,true
 34896298,11:06 AM 01/07/20,0,vjudge5,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34896303,11:06 AM 01/07/20,0,vjudge8,accepted,0.00,9.2M,C,ECJN202,0,0
-34896306,11:06 AM 01/07/20,0,vjudge7,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
-34896308,11:06 AM 01/07/20,0,vjudge3,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896310,11:06 AM 01/07/20,0,vjudge11,wrong answer,0.00,3.3M,C++17,ECJN202,0,0
-34896313,11:07 AM 01/07/20,0,vjudge4,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896306,11:06 AM 01/07/20,0,vjudge7,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
+34896308,11:06 AM 01/07/20,0,vjudge3,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896310,11:06 AM 01/07/20,0,vjudge11,wrong answer,0.00,3.3M,C++17,ECJN202,false,true
+34896313,11:07 AM 01/07/20,0,vjudge4,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896324,11:07 AM 01/07/20,0,vjudge9,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34896327,11:07 AM 01/07/20,0,vjudge4,wrong answer,0.00,15.7M,C++14,ECJN202,false,true
-34896328,11:07 AM 01/07/20,0,vjudge8,compilation error,-,-,C++17,ECJN202,0,0
-34896330,11:07 AM 01/07/20,0,vjudge6,compilation error,-,-,C++17,ECJN202,0,0
-34896345,11:08 AM 01/07/20,0,vjudge9,accepted,0.00,5.9M,C++17,ECJN202,0,0
+34896328,11:07 AM 01/07/20,0,vjudge8,compilation error,-,-,C++17,ECJN202,false,true
+34896330,11:07 AM 01/07/20,0,vjudge6,compilation error,-,-,C++17,ECJN202,false,true
+34896345,11:08 AM 01/07/20,0,vjudge9,accepted,0.00,5.9M,C++17,ECJN202,true,true
 34896346,11:08 AM 01/07/20,0,vjudge1,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896347,11:08 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896357,11:08 AM 01/07/20,0,vjudge8,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896347,11:08 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896357,11:08 AM 01/07/20,0,vjudge8,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896359,11:08 AM 01/07/20,0,vjudge2,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896360,11:08 AM 01/07/20,0,vjudge5,accepted,0.00,9.3M,C++17,ECJN202,0,0
+34896360,11:08 AM 01/07/20,0,vjudge5,accepted,0.00,9.3M,C++17,ECJN202,false,true
 34896366,11:08 AM 01/07/20,0,vjudge8,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896372,11:09 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896375,11:09 AM 01/07/20,0,vjudge3,wrong answer,0.00,6.7M,C++17,ECJN202,0,0
+34896372,11:09 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896375,11:09 AM 01/07/20,0,vjudge3,wrong answer,0.00,6.7M,C++17,ECJN202,false,true
 34896376,11:09 AM 01/07/20,0,vjudge2,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896399,11:10 AM 01/07/20,0,vjudge1,compilation error,-,-,C++17,ECJN202,0,0
+34896399,11:10 AM 01/07/20,0,vjudge1,compilation error,-,-,C++17,ECJN202,false,true
 34896407,11:10 AM 01/07/20,0,vjudge7,accepted,0.00,9.2M,C,ECJN202,0,0
-34896438,11:11 AM 01/07/20,0,vjudge1,compilation error,-,-,C++17,ECJN202,0,0
+34896438,11:11 AM 01/07/20,0,vjudge1,compilation error,-,-,C++17,ECJN202,false,true
 34896443,11:12 AM 01/07/20,0,vjudge9,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34896446,11:12 AM 01/07/20,0,vjudge6,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-34896450,11:12 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896461,11:12 AM 01/07/20,0,vjudge9,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
-34896506,11:15 AM 01/07/20,0,vjudge7,wrong answer,0.00,5.8M,C++17,ECJN202,0,0
+34896450,11:12 AM 01/07/20,0,vjudge7,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896461,11:12 AM 01/07/20,0,vjudge9,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
+34896506,11:15 AM 01/07/20,0,vjudge7,wrong answer,0.00,5.8M,C++17,ECJN202,false,true
 34896526,11:16 AM 01/07/20,0,vjudge8,wrong answer,0.00,10.1M,C,ECJN202,0,0
 34896551,11:17 AM 01/07/20,0,vjudge1,wrong answer,0.00,9.2M,C,ECJN202,0,0
-34896557,11:17 AM 01/07/20,0,vjudge4,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896557,11:17 AM 01/07/20,0,vjudge4,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896585,11:18 AM 01/07/20,0,vjudge1,accepted,0.00,10.1M,C,ECJN202,0,0
 34896592,11:18 AM 01/07/20,0,vjudge6,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34896594,11:18 AM 01/07/20,0,vjudge2,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896594,11:18 AM 01/07/20,0,vjudge2,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896625,11:20 AM 01/07/20,0,vjudge3,compilation error,-,-,C,ECJN202,0,0
 34896647,11:20 AM 01/07/20,0,vjudge6,accepted,0.00,9.2M,C,ECJN202,0,0
-34896649,11:20 AM 01/07/20,0,vjudge1,accepted,0.00,5.8M,C++17,ECJN202,0,0
-34896709,11:24 AM 01/07/20,0,vjudge11,accepted,0.00,5.8M,C++17,ECJN202,0,0
+34896649,11:20 AM 01/07/20,0,vjudge1,accepted,0.00,5.8M,C++17,ECJN202,false,true
+34896709,11:24 AM 01/07/20,0,vjudge11,accepted,0.00,5.8M,C++17,ECJN202,false,true
 34896759,11:26 AM 01/07/20,3,egor091,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34896836,11:30 AM 01/07/20,3,srajang_123,accepted,0.00,16.1M,C++14,ECJN202,true,true
-34896879,11:32 AM 01/07/20,0,vjudge4,accepted,0.00,2.4M,C++17,ECJN202,0,0
+34896879,11:32 AM 01/07/20,0,vjudge4,accepted,0.00,2.4M,C++17,ECJN202,false,true
 34897028,11:39 AM 01/07/20,3,ashharali_786,accepted,0.00,15.7M,C++14,ECJN202,false,true
 34897161,11:44 AM 01/07/20,0,vjudge5,accepted,0.00,9.2M,C,ECJN202,0,0
 34897342,11:52 AM 01/07/20,0,vjudge4,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34897736,12:08 PM 01/07/20,3,c0de_y0da,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34897736,12:08 PM 01/07/20,3,c0de_y0da,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34898413,12:38 PM 01/07/20,4,balakrushna,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34899006,01:07 PM 01/07/20,0,chandanbagan27,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34899013,01:08 PM 01/07/20,0,chandanbagan27,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34899253,01:21 PM 01/07/20,2,meghna_1208,accepted,0.00,9.2M,C,ECJN202,0,0
 34899510,01:34 PM 01/07/20,2,tom_crusie,accepted,0.00,14.9M,C++14,ECJN202,true,true
-34899737,01:46 PM 01/07/20,2,panda_27,accepted,0.01,17.5M,PYTH 3.6,ECJN202,0,0
-34900760,02:46 PM 01/07/20,0,kcdrathan,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34899737,01:46 PM 01/07/20,2,panda_27,accepted,0.01,17.5M,PYTH 3.6,ECJN202,false,true
+34900760,02:46 PM 01/07/20,0,kcdrathan,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34900827,02:50 PM 01/07/20,4,deepak1141,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34900946,02:56 PM 01/07/20,4,notsoloud,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34900954,02:56 PM 01/07/20,4,notsoloud,accepted,0.00,14.9M,C++14,ECJN202,false,true
@@ -591,7 +591,7 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 34902189,03:34 PM 01/07/20,0,naren8272,accepted,0.00,14.9M,C++14,ECJN202,false,true
 34902248,03:36 PM 01/07/20,1,tiwaripalak01,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 34902297,03:37 PM 01/07/20,1,tiwaripalak01,accepted,0.00,14.9M,C++14,ECJN202,false,true
-34904055,04:15 PM 01/07/20,1,ashutosh0903,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
+34904055,04:15 PM 01/07/20,1,ashutosh0903,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
 34904672,04:29 PM 01/07/20,2,destructive_ya,wrong answer,0.00,14.9M,C++14,ECJN202,true,true
 34904716,04:31 PM 01/07/20,2,destructive_ya,wrong answer,0.00,14.9M,C++14,ECJN202,true,true
 34905087,04:39 PM 01/07/20,2,destructive_ya,wrong answer,0.00,14.9M,C++14,ECJN202,true,true
@@ -774,14 +774,14 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 35458442,09:10 PM 10/07/20,1,harsh_100,compilation error,-,-,C++14,ECJN202,false,true
 35458477,09:11 PM 10/07/20,1,harsh_100,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 35458577,09:13 PM 10/07/20,1,harsh_100,accepted,0.06,87.1M,PYPY3,ECJN202,0,0
-35469247,01:17 AM 11/07/20,2,abhishek094sha,wrong answer,0.02,17.5M,PYTH 3.6,ECJN202,0,0
-35469285,01:19 AM 11/07/20,2,abhishek094sha,accepted,0.01,17.6M,PYTH 3.6,ECJN202,0,0
-35471019,02:30 AM 11/07/20,2,surjit_2001,accepted,0.00,5.8M,C++17,ECJN202,0,0
+35469247,01:17 AM 11/07/20,2,abhishek094sha,wrong answer,0.02,17.5M,PYTH 3.6,ECJN202,false,true
+35469285,01:19 AM 11/07/20,2,abhishek094sha,accepted,0.01,17.6M,PYTH 3.6,ECJN202,false,true
+35471019,02:30 AM 11/07/20,2,surjit_2001,accepted,0.00,5.8M,C++17,ECJN202,false,true
 35510756,11:13 PM 11/07/20,3,khan_0786,accepted,0.11,2133M,JAVA,ECJN202,false,true
 35555345,10:19 PM 12/07/20,1,manusoni7,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
-35569190,03:57 AM 13/07/20,2,heisenberg1208,accepted,0.00,6M,C++17,ECJN202,0,0
-35610171,08:43 PM 13/07/20,4,saurav_iiitp,wrong answer,0.00,6M,C++17,ECJN202,0,0
-35610187,08:43 PM 13/07/20,4,saurav_iiitp,accepted,0.00,6.7M,C++17,ECJN202,0,0
+35569190,03:57 AM 13/07/20,2,heisenberg1208,accepted,0.00,6M,C++17,ECJN202,true,true
+35610171,08:43 PM 13/07/20,4,saurav_iiitp,wrong answer,0.00,6M,C++17,ECJN202,true,true
+35610187,08:43 PM 13/07/20,4,saurav_iiitp,accepted,0.00,6.7M,C++17,ECJN202,true,true
 35611821,09:59 PM 13/07/20,2,sravya621,wrong answer,0.00,14.9M,C++14,ECJN202,false,true
 35611843,10:00 PM 13/07/20,2,sravya621,accepted,0.00,15.7M,C++14,ECJN202,false,true
 35612112,10:12 PM 13/07/20,2,pawanjain982,compilation error,-,-,JAVA,ECJN202,false,true
@@ -792,9 +792,9 @@ program_id,datetime,star,user,result,time,memory,language,problem_code,uses recu
 35630710,07:50 PM 14/07/20,2,shubhangi08,accepted,0.00,9.2M,C,ECJN202,0,0
 35630746,07:51 PM 14/07/20,2,shubhangi08,accepted,0.00,9.2M,C,ECJN202,0,0
 35636758,01:27 AM 15/07/20,3,dexter_martin,accepted,0.00,15.7M,C++14,ECJN202,false,true
-35647397,05:41 PM 15/07/20,2,niteshk2,accepted,0.02,17.6M,PYTH 3.6,ECJN202,0,0
+35647397,05:41 PM 15/07/20,2,niteshk2,accepted,0.02,17.6M,PYTH 3.6,ECJN202,false,true
 35649621,07:31 PM 15/07/20,2,aks_643,accepted,0.00,14.9M,C++14,ECJN202,false,true
-35651023,08:36 PM 15/07/20,2,io_0i,accepted,0.00,6M,C++17,ECJN202,0,0
+35651023,08:36 PM 15/07/20,2,io_0i,accepted,0.00,6M,C++17,ECJN202,false,true
 35701021,01:46 PM 16/07/20,2,xblaze,accepted,0.00,15.7M,C++14,ECJN202,0,0
 35702090,02:30 PM 16/07/20,4,me123456,wrong answer,0.00,14.9M,C++14,ECJN202,0,0
 35702101,02:31 PM 16/07/20,4,me123456,accepted,0.00,14.9M,C++14,ECJN202,0,0
