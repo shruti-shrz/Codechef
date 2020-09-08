@@ -99,6 +99,7 @@ void parseFunction(string line) {
     while (sline >> type >> func_name) {
     	//cout << func_name <<endl;
       trim(func_name);
+      trim(type);
       //cout << func_name<<endl;
       if(type=="def")
       {
