@@ -4,8 +4,6 @@
 #include <string>
 #include <vector>
 #include <stack>
-// #include <filesystem>
-using namespace std;
 using std::ifstream;
 using std::ofstream;
 using std::istringstream;
@@ -13,8 +11,7 @@ using std::string;
 using std::vector;
 using std::stack;
 using std::endl;
-// namespace fs = std::filesystem;
-
+using namespace std;
 
 stack<string> functions;
 stack<int> functind;
@@ -31,6 +28,8 @@ void ReadBoardFile(string path) {
   if (myfile) {
     string line;
     while (getline(myfile, line)) {
+      if(recur_count==true)
+        break;
     	ind=0;
       if(line.size()>0)
       {
@@ -41,20 +40,15 @@ void ReadBoardFile(string path) {
           else
             break;
         }
-        cout << "check1";
       }
     
     	if(line.size()==0)
     		continue;
-        if (line.at(0)=='#'){
-          continue;
-        }
-        else if (line.at(0)=='\'' && line.at(1)=='\''&& line.at(1)=='\''){
-          flag = true;
+        if (line.find("import")!=string::npos){
           continue;
         }
         else if(line.find(":")!=string::npos){
-        	cout << "check";
+        	//cout << "check";
           parseFunction(line);
         }else{
           check(line);
@@ -91,9 +85,10 @@ int main(int argc, char** argv) {
 
 void check(string line){
   int k = functind.top();
-  if(!functions.empty() && line.find(functions.top())!=string::npos && k<=ind){
+  if(!functions.empty() && line.find(functions.top())!=string::npos && k<ind){
     recur_count= true;
     functions.pop();
+    functind.pop();
   }
 }
 
@@ -101,16 +96,20 @@ void parseFunction(string line) {
     istringstream sline(line);
     string type;
     string func_name;
-    trim(type);
     while (sline >> type >> func_name) {
     	//cout << func_name <<endl;
+      trim(func_name);
+      //cout << func_name<<endl;
       if(type=="def")
-      if(func_name.find("(")!=string::npos && func_name[0]==' '){
+      {
+        if(func_name.find("(")!=string::npos){
         string funct = func_name.substr(0,func_name.find("("));
-        if(funct.compare(""))
-          {functions.push(funct);
+       // cout << funct<<endl;
+        functions.push(funct);
             functind.push(ind);
-          }
+          
       }
+      }
+      
     }
 }
