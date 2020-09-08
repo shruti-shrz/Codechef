@@ -28,9 +28,9 @@ void ReadBoardFile(string path) {
   if (myfile) {
     string line;
     while (getline(myfile, line)) {
+      ind=0;
       if(recur_count==true)
         break;
-    	ind=0;
       if(line.size()>0)
       {
         for(int i=0;i<line.size();i++)
@@ -47,10 +47,10 @@ void ReadBoardFile(string path) {
         if (line.find("import")!=string::npos){
           continue;
         }
-        else if(line.find(":")!=string::npos){
-        	//cout << "check";
+        else if(line.find("def")!=string::npos){
           parseFunction(line);
         }else{
+         // cout << "check";
           check(line);
         }
        // outfile << line;
@@ -84,12 +84,31 @@ int main(int argc, char** argv) {
 }
 
 void check(string line){
-  int k = functind.top();
-  if(!functions.empty() && line.find(functions.top())!=string::npos && k<ind){
+  int k=0;
+  if(!functind.empty())
+  {
+    k = functind.top();
+  //cout << k<<"vh"<<ind<<endl;
+  }
+  if(ind<=k)
+    {
+      if(!functions.empty())
+    {
+       //cout << "!!"<<k << ind<<endl;
+    functions.pop();
+    functind.pop();
+    }
+    }
+    else
+    {
+      if(!functions.empty() && line.find(functions.top())!=string::npos && k<ind){
+       // cout << "!!"<<k << ind<<endl;
     recur_count= true;
     functions.pop();
     functind.pop();
-  }
+    }
+    }
+  
 }
 
 void parseFunction(string line) {
@@ -111,6 +130,9 @@ void parseFunction(string line) {
           
       }
       }
+      else
+      {break;}
+
       
     }
 }

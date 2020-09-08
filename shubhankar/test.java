@@ -1,10 +1,12 @@
-def tri_recursion(k):
-  if(k>0):
-    result = k+tri_recursion(k-1)
-    print(result)
-  else:
-    result = 0
-  return result
+def main():
+    for _ in range(int(input())):
+        n = int(input())
+        List = list(map(int, input().split()))
+        k = sum(List) % n
+        if k == 0:
+            print("YES")
+        else:
+            print("NO")
 
-print("\n\nRecursion Example Results")
-tri_recursion(6)
+if _name_ == "_main_":
+    main()
